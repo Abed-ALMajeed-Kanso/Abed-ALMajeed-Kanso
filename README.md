@@ -18,17 +18,18 @@ Welcome to my GitHub profile!
 - Testing tools:  
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)  ![PHPUnit](https://img.shields.io/badge/PHPUnit-777BB4?style=flat-square&logo=php&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)  
 
-- Familierity With Mobile Development:
+- Familiarity With Mobile Development:
   
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
 
 
 ### 🌱 **What I’m Currently Learning**  
-- Exploring advanced cloud technologies and DevOps tools like **Docker**, **Kubernetes**, and **CI/CD pipelines**.  
+- Exploring advanced cloud technologies and DevOps tools like **Docker**, **Kubernetes**, **CI/CD pipelines**, and **application deployment workflows**.  
 - Diving deeper into **AI-powered solutions** and **machine learning frameworks** for web applications.  
 
 ### 🤝 **Let’s Collaborate**  
-I offer full project management from start to finish, ensuring your project is delivered on time and meets your expectations. Regular communication is a priority for me, so let’s connect and bring your ideas to life!  
+I offer full project development from start to finish, ensuring your project is delivered on time and meets your expectations. 
+Regular communication is a priority for me, so let’s connect and bring your ideas to life!  
 
 ### 📫 **How to Reach Me**  
 - Email: abedalmajeedkanso@outlook.com
