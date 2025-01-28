@@ -37,7 +37,7 @@ Welcome to my GitHub profile!
 
 ### 🌱 **What I’m Currently Learning**  
 - Diving deeper into **AI-powered solutions** and **machine learning frameworks** for web applications.
-- Exploring deep learning, generative AI, and large language models (LLMs) to build cutting-edge AI solutions.
+- Exploring **deep learning**, **generative AI**, and **large language models (LLMs)** to build cutting-edge AI solutions.
 
 ### 🤝 **Let’s Collaborate**  
 I offer full project development from start to finish, ensuring your project is delivered on time and meets your expectations. 
